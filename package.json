@@ -1,0 +1,25 @@
+{
+  "name": "preprojeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node inde.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauapessoaxs-lab/preprojeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauapessoaxs-lab/preprojeto/issues"
+  },
+  "homepage": "https://github.com/kauapessoaxs-lab/preprojeto#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
